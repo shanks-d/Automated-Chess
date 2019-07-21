@@ -1,5 +1,4 @@
 # Automated-Chess
-Eklavya Project
 A mechanical chess where the players give commands via a keypad and the pieces move 
 into position automatically. For moving the pieces, we have used a magnet which pulls 
 the magnetic pieces from their initial position to the goal position. For horizontal 
