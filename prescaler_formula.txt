@@ -1,0 +1,13 @@
+To Prescale PWM1 at 3KHz (~2996)
+
+Prescale PWM at TCCR1B by 8
+
+Set Max ICR1 value to 334
+
+
+FORMULA : -	freq req = ( freq of clk ) / (2 * N * TOP)
+
+where,
+N is Prescaler Factor ( here 8 )
+TOP is Max ICR value ( here 334 )
+ 
